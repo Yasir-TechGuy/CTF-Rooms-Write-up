@@ -1,6 +1,6 @@
 # CTF Write-up: Easy Peasy (A.M.L.CTF)
 **Platform:** TryHackMe  
-**Difficulty:** Medium  
+**Difficulty:** Easy
 **Date:** March 3, 2026  
 **Author:** Yasir  
 **Status:** ✅ Completed  
@@ -223,5 +223,5 @@ cat /tmp/rootflag.txt
 
 ---
 
-*Write-up by Yasir | TryHackMe Junior Penetration Tester Path*  
+*Write-up by Yasir | TryHackMe Junior Penetration Tester(Student)*  
 *Room: [Easy Peasy](https://tryhackme.com/room/easypeasyctf)*
