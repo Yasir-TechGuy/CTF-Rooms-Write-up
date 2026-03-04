@@ -1,1 +1,1 @@
-# CTF-Rooms-Write-up
+📝 CTF write-ups documenting my journey through the TryHackMe Junior Penetration Tester path. Each write-up includes full methodology, commands used, lessons learned, and key takeaways — built to reinforce learning and demonstrate practical security skills.
