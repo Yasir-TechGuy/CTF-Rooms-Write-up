@@ -11,7 +11,7 @@
 
 ## Overview
 
-Easy Peasy is a medium-difficulty CTF on TryHackMe that covers web enumeration, hash cracking, steganography, and Linux privilege escalation. It was trickier than expected because services were running on non-standard ports, and credentials were hidden using multiple layers of encoding.
+Easy Peasy is an easy-difficulty CTF on TryHackMe that covers web enumeration, hash cracking, steganography, and Linux privilege escalation. It was trickier than expected because services were running on non-standard ports, and credentials were hidden using multiple layers of encoding.
 
 This was my second CTF room on the Junior Penetration Tester path, done to reinforce what I learned in the Intro to Web Hacking module.
 
