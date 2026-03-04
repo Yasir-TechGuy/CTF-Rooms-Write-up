@@ -1,4 +1,4 @@
-# CTF Write-up: Easy Peasy (A.M.L.CTF)
+# CTF Write-up: Easy Peasy (CTF)
 **Platform:** TryHackMe  
 **Difficulty:** Easy
 **Date:** March 3, 2026  
